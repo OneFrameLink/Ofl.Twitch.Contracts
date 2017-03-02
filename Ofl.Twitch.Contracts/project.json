@@ -2,7 +2,7 @@
   "authors": [
     "One Frame Link"
   ],
-  "description": "Abstractions used by the Ofl.Core project",
+  "description": "Abstractions used by the Ofl.Twitch project.",
   "supports": {},
   "dependencies": {
     "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
